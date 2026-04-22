@@ -21,14 +21,9 @@
 
 ---
 
-### 📂 My Key Projects
+### 📂 My Key Project
 
 - 🔍 Sentiment Analysis using Machine Learning
-- 💳 Credit Card Fraud Detection System
-- 🧮 NumPy & Pandas Data Analysis Programs
-- ⚙️ Operating System concepts using C (fork, process management)
-- 📈 Data visualization and statistical analysis
-
 ---
 
 ### 📚 Currently Learning
